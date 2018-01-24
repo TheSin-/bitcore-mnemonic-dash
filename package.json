@@ -38,7 +38,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib-terracoin": "^0.14.0",
+    "bitcore-lib-terracoin": "TheSin-/bitcore-lib-terracoin",
     "unorm": "^1.3.3"
   }
 }
