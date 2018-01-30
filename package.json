@@ -1,6 +1,6 @@
 {
   "name": "bitcore-mnemonic-terracoin",
-  "version": "1.2.2",
+  "version": "1.5.0",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -14,6 +14,10 @@
     {
       "name": "Yemel Jardi",
       "email": "angel.jardi@gmail.com"
+    },
+    {
+      "name": "Matias Alejo Garcia",
+      "email": "ematiu@gmail.com"
     }
   ],
   "repository": {

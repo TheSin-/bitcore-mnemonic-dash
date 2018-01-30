@@ -27,7 +27,7 @@ var xpriv = code.toHDPrivateKey();
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/terracoin/bitcore-terracoin/blob/master/CONTRIBUTING.md) on the main bitcore-terracoin repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/TheSin-/bitcore-terracoin/blob/master/CONTRIBUTING.md) on the main bitcore-terracoin repo for information about how to contribute.
 
 ## License
 
