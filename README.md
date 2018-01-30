@@ -2,8 +2,8 @@ BIP39 Mnemonics for Bitcore-Terracoin
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-mnemonic-terracoin.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-mnemonic-terracoin)
-[![Build Status](https://img.shields.io/travis/terracoin/bitcore-mnemonic-terracoin.svg?branch=master&style=flat-square)](https://travis-ci.org/terracoin/bitcore-mnemonic-terracoin)
-[![Coverage Status](https://img.shields.io/coveralls/terracoin/bitcore-mnemonic-terracoin.svg?style=flat-square)](https://coveralls.io/r/terracoin/bitcore-mnemonic-terracoin)
+[![Build Status](https://img.shields.io/travis/TheSin-/bitcore-mnemonic-terracoin.svg?branch=master&style=flat-square)](https://travis-ci.org/TheSin-/bitcore-mnemonic-terracoin)
+[![Coverage Status](https://img.shields.io/coveralls/TheSin-/bitcore-mnemonic-terracoin.svg?style=flat-square)](https://coveralls.io/r/TheSin-/bitcore-mnemonic-terracoin)
 
 A module for [bitcore-terracoin](https://github.com/terracoin/bitcore-terracoin) that implements [Mnemonic code for generating deterministic keys](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki).
 
